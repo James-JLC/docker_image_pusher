@@ -1,6 +1,13 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+clouddetail/apo-odigos-instrumentor:v1.0.6
+clouddetail/nginx:stable-alpine3.20
+clouddetail/ebpf-agent:v1.9.2
+clouddetail/node-agent:v1.8.0
+clouddetail/ilogtail:v1.5.2
+clouddetail/grafana-alloy:v1.4.2-1
+clouddetail/apo-odiglet:v1.0.3
+clouddetail/apo-otel-collector:v1.3.1
+clouddetail/originx-gc-agent:v1.4.1
+clouddetail/profile-agent:v1.0.0
+clouddetail/vmagent:v1.102.1
+clouddetail/apo-otel-collector:v1.3.1
