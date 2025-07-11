@@ -10,3 +10,4 @@ clouddetail/originx-gc-agent:v1.4.1
 clouddetail/profile-agent:v1.0.0
 clouddetail/vmagent:v1.102.1
 clouddetail/apo-otel-collector:v1.3.1
+library/ubuntu:22.04
